@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Savrola-CouchDB4J:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Savrola_CouchDB4J_jar</output-path>
+    <root id="archive" name="Savrola-CouchDB4J.jar">
+      <element id="module-output" name="Apache Commons" />
+      <element id="module-output" name="CouchDB4J" />
+      <element id="module-output" name="JSON" />
+    </root>
+  </artifact>
+</component>

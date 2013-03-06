@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9652e7b-f313-438c-8052-a0a636fea6b3" name="Default" comment="Initial commit of source code and annotations.jar">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/annotations.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/doc-files/tsccm-structure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AIMDBackoffManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AUTH.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/AbortableHttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/AbstractArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/AbstractArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AbstractAuthenticationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/AbstractBagDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/AbstractBidiMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/AbstractBufferDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/AbstractCaverphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/AbstractClientConnAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/AbstractCollectionDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/AbstractConnPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/AbstractConnPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/AbstractConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/AbstractCookieAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/AbstractCookieSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/AbstractDecimalMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/AbstractDualBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/AbstractEmptyIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractHashedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AbstractHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/AbstractHttpClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/AbstractHttpEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/AbstractHttpMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/AbstractHttpParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/AbstractHttpServerConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractInputCheckedMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/AbstractIntegerMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/AbstractIteratorDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/AbstractJSON.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/AbstractKeyValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/AbstractLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractLinkedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/AbstractListDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/AbstractListIteratorDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/AbstractMapBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/AbstractMapEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/AbstractMapEntryDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/AbstractMapIteratorDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/AbstractMessageParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/AbstractMessageWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/AbstractObjectMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/AbstractOrderedBidiMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractOrderedMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/AbstractOrderedMapIteratorDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/AbstractPoolEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/AbstractPooledConnAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/AbstractPrimitiveMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractReferenceMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/AbstractSerializableCollectionDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/AbstractSerializableListDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/AbstractSerializableSetDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/AbstractSessionInputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/AbstractSessionOutputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/AbstractSetDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/AbstractSortedBagDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/AbstractSortedBidiMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/AbstractSortedMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/AbstractSortedSetDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/AbstractVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/AdHocView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/AllClientPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/AllPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/AllowAllHostnameVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/AndPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/AndPropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/AnyPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/Apache Commons.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ArrayIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ArrayListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ArrayStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/ArrayUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/AuthCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthOption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/params/AuthPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/params/AuthParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/params/AuthParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/AuthPolicy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthProtocolState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/AuthSchemeBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthSchemeRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthScope.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/AuthenticationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/AuthenticationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/AuthenticationStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AuthenticationStrategyAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AuthenticationStrategyImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/AutoRetryHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/B64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/BCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/BackoffManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Bag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BagUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base32.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base32InputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base32OutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base64InputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Base64OutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/BaseLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/BaseNCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/BaseNCodecInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/BaseNCodecOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/BasicAuthCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/BasicClientConnectionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicClientCookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicClientCookie2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicCommentHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/pool/BasicConnFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/pool/BasicConnPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/BasicCookieStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/BasicCredentialsProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicDomainHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BasicDynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BasicDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/BasicEofSensorWatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicExpiresHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/concurrent/BasicFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeaderElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeaderElementIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeaderIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeaderValueFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHeaderValueParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/BasicHttpContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/BasicHttpEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHttpEntityEnclosingRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/BasicHttpParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/BasicHttpProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicHttpResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicLineFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicLineParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicListHeaderIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/BasicManagedEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicMaxAgeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicNameValuePair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicPathHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/BasicPoolEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/pool/BasicPoolEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/BasicPoolEntryRef.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/BasicPooledConnAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicRequestLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/BasicResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/BasicRouteDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/BasicScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/BasicSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BasicSecureHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicStatusLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BasicTokenIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/BasicUserPrincipal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanAccessLanguageException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BeanMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/bean/BeanMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanPropertyValueChangeClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanPropertyValueEqualsPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanToPropertyValueTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanUtilsBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/BeanUtilsBean2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/BeiderMorseEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BestMatchSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BestMatchSpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/BigDecimalConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/BigDecimalLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/BigDecimalMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/BigIntegerConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/BigIntegerLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/BigIntegerMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/BinaryCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/BinaryDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/BinaryEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BinaryHeap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/BitField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/BlockingBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/BooleanArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/BooleanArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/BooleanComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/BooleanConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/BooleanMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/BooleanObjectArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/BooleanObjectMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/BooleanUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/BoundedBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BoundedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BoundedFifoBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/BoundedFifoBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BoundedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/BrowserCompatHostnameVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BrowserCompatSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/BrowserCompatSpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Buffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/BufferInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BufferOverflowException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BufferUnderflowException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/BufferUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/BufferedHeader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/BufferedHttpEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/ByteArrayBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ByteArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/ByteArrayEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/ByteArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ByteConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/ByteLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/ByteMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/CalendarConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/concurrent/Cancellable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/CaseInsensitiveMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Caverphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Caverphone1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Caverphone2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ChainedClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ChainedTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/ChallengeState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/CharArrayBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/CharArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/CharEncoding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/CharEncoding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/CharMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/CharRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/CharSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/CharSetUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/CharUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/CharacterArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/CharacterConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/CharacterObjectArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/CharacterObjectMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/Charsets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/ChunkedInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/ChunkedOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/CircularFifoBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/CircularRedirectException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ClassConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/ClassMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/ClassUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ClientConnectionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ClientConnectionManagerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ClientConnectionOperator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ClientConnectionRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/ClientContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/ClientContextConfigurer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/ClientCookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/ClientPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/ClientParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/ClientParamsStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/ClientProtocolException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/Clock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/CloneFailedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/CloneTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/CloneUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Closure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ClosureTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ClosureUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/CollatingIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/CollectionUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/ColognePhonetic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/ComparableComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/ComparatorChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ComparatorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/CompareToBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/CompositeCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/CompositeFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/CompositeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/CompositePropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/CompositeSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnConnectionPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnConnectionParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/ConnFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnManagerPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnManagerParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnManagerParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnPerRoute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnPerRouteBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/ConnPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/ConnPoolByRoute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/ConnPoolControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnRoutePNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnRouteParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/ConnRouteParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ConnectTimeoutException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/ConnectionBackoffStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ConnectionClosedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ConnectionKeepAliveStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ConnectionPoolTimeoutException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ConnectionReleaseTrigger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ConnectionReuseStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/ConnectionShutdownException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ConstantFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ConstantTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConstructorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/reflect/ConstructorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/Consts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/ContentEncodingHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/ContentLengthInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/ContentLengthStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/ContentProducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ContentTooLongException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/ContentType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/ContextAwareAuthScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ContextClassLoaderLocal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConversionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConvertUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConvertUtilsBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConvertUtilsBean2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/Converter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ConverterFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ConvertingWrapDynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/Cookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieIdentityComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieOrigin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookiePathComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/CookiePolicy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieRestrictionViolationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/CookieSpecBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieSpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/params/CookieSpecPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/params/CookieSpecParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/CookieSpecRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/CookieStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/CoreConnectionPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/CoreProtocolPNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/CouchDB4J.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/CouchResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/CouchTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/Credentials.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/CredentialsProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/Crypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/CursorableLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/CursorableLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/CycleDetectionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/Database.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/DateConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/DateFormatUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/DateLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/DateMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/DateParseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/DateTimeConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/DateUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/DateUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/DecimalLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/DecoderException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/entity/DecompressingEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DecompressingHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultBackoffStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/DefaultClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/DefaultClientConnectionOperator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultConnectionKeepAliveStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/DefaultConnectionReuseStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/DefaultDefaultValueProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/DefaultHttpClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/DefaultHttpRequestFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/DefaultHttpRequestParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultHttpRequestRetryHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/DefaultHttpResponseFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/DefaultHttpResponseParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/DefaultHttpResponseParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/DefaultHttpRoutePlanner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/DefaultHttpServerConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/DefaultKeyValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/DefaultMapBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/DefaultMapEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/DefaultMapEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultProxyAuthenticationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultRedirectHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultRedirectStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultRedirectStrategyAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultRequestDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/expression/DefaultResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/DefaultResponseParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultServiceUnavailableRetryStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultTargetAuthenticationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/DefaultUserTokenHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/DefaultValueProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/DefaultValueProcessorMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/DefaultedHttpContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/DefaultedHttpParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/DefaultedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/entity/DeflateDecompressingEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/DigestScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/DigestSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/DigestUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/DisallowIdentityContentLengthStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/DnsResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/Document.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/DoubleArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/DoubleArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/DoubleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/DoubleLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/DoubleMetaphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/DoubleMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/DoubleOrderedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/DoubleRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/DualHashBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/DualTreeBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/DurationFormatUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/DynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/DynaBeanMapDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/DynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/DynaProperty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EmptyIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EmptyListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EmptyMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EmptyOrderedIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EmptyOrderedMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/EncoderException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/EncodingUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/EnglishReasonPhraseCatalog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/Entities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/EntityDeserializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/EntityEnclosingRequestWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/EntitySerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/EntityTemplate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/EntityUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EntrySetMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/enums/Enum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/EnumMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/enums/EnumUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/EnumerationIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/EnumerationUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/EofSensor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/EofSensorInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/EofSensorWatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/EqualPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/EqualsBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ExceptionClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ExceptionFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ExceptionPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ExceptionTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/ExceptionUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/ExceptionUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ExecutionContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/ExtendedMessageFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ExtendedProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/FactoryTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/FactoryUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/FalsePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/FalsePropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/FastArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/FastDateFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/FastHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/FastTreeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/reflect/FieldUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/FileConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/FileEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/FilterIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/FilterListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/FixedOrderComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/FixedSizeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/FixedSizeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/FixedSizeSortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/Flat3Map.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/FloatArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/FloatArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/FloatConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/FloatLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/FloatMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/FloatRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/ForClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/FormatFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/FormattedHeader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/Fraction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/FunctorException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/FunctorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/concurrent/FutureCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/GGSSchemeBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/GrowthList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/annotation/GuardedBy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/entity/GzipDecompressingEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HTTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/HashBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/HashBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/HashCodeBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/HashedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/Header.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HeaderElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HeaderElementIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/HeaderGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HeaderIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/HeaderValueFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/HeaderValueParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/Hex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/HostNameResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpAbstractParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/HttpAuthenticator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/HttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/HttpClientParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/HttpClientUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/HttpConnPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpConnectionMetrics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/HttpConnectionMetricsImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpConnectionParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpConnectionParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpDateGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpDelete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/HttpEntityDigester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpEntityEnclosingRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/HttpEntityWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpExpectationVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpHead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpHeaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpHost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/HttpHostConnectException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpInetConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/HttpInetSocketAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/HttpMessageParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/HttpMessageWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpOptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpParamsNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpPatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/HttpPoolEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpProtocolParamBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/HttpProtocolParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpPut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpRequestBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpRequestExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpRequestFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpRequestHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpRequestHandlerRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpRequestHandlerResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpRequestInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpRequestInterceptorList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/HttpRequestParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/HttpRequestRetryHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/HttpRequestWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/HttpResponseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpResponseFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpResponseInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpResponseInterceptorList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/HttpResponseParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/HttpResponseWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/HttpRoute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/HttpRouteDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/HttpRoutePlanner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/HttpRoutedConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpServerConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/HttpService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpTrace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/HttpTransportMetrics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/HttpTransportMetricsImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/HttpUriRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/HttpVersion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/IDKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/IEEE754rUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/IdentityInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/IdentityMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/IdentityObjectMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/IdentityOutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/IdentityPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/IdleConnectionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/Idn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/IfClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/IgnoreSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/IgnoreSpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/IllegalClassException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/annotation/Immutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ImmutableHttpProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/InMemoryDnsResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/IncompleteArgumentException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/util/InetAddressUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/InputStreamEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/InstanceofPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/InstantiateFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/InstantiateTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/IntArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/IntHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/IntMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/IntRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/IntegerArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/IntegerConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/IntegerLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/InvalidCredentialsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/InvokerTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/IterableMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/IteratorChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/IteratorEnumeration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/IteratorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/JDBCDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/JSON.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSON.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JSONBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONNull.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JSONString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JSONStringer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JSONTokener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/xml/JSONTypes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/util/JSONUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JSONUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/JVMRandom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JavaIdentifierTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/Jdk13LumberjackLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/Jdk14Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/JdkIdn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/regexp/JdkRegexpMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsDateJsonBeanProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsDateJsonValueProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsonBeanProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsonBeanProcessorMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/JsonConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/JsonEventListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsonValueProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsonValueProcessorMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/JsonVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/KerberosScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/KerberosSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/KeyValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/LRUMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/LRUMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/Lang.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/LangUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/Languages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/LaxContentLengthStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/LaxRedirectStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/LayeredSchemeSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/LayeredSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/LayeredSocketFactoryAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/LazyDynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/LazyDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/LazyDynaList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/LazyDynaMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/LazyList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/LazyMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/LazySortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/LineFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/LineParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/LinkedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ListIteratorWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/ListOrderedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/ListOrderedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ListUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/LocaleBeanUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/LocaleConvertUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/LocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/LocaleUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/Log.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/LogConfigurationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/LogFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/LogFactoryImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/LogSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/LoggingSessionInputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/LoggingSessionOutputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/LongArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/LongArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/LongConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/LongLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/LongMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/LongRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/LoopingIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/LoopingListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/MalformedChallengeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/MalformedChunkCodingException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/MalformedCookieException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ManagedClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/ManagedClientConnectionImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/MapBackedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/MapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/MapToDateMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/MapTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/MapUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/MappedPropertyDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/MappingPropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/Md5Crypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/reflect/MemberUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/MessageDigestAlgorithms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Metaphone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/MethodNotSupportedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/MethodUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/reflect/MethodUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/bean/MorphDynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/bean/MorphDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/MorphException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/MorphUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/Morpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/MorpherRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/MultiHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/MultiKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/MultiKeyMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/MultiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/MultiValueMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/MultihomePlainSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/Mutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableBoolean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableByte.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableDouble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/MutableDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableFloat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableInt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableLong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/MutableShort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NOPClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NOPTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/NTCredentials.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NTLMEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NTLMEngineException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NTLMEngineImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NTLMScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NTLMSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/NTUserPrincipal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/NameType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/NameValuePair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NegotiateScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/NegotiateSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/Nestable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/NestableDelegate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/NestableError.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/NestableException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/NestableRuntimeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/NestedNullException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/NetscapeDomainHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/NetscapeDraftHeaderParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/NetscapeDraftSpec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/NetscapeDraftSpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/NewBeanInstanceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/NoConnectionReuseStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/NoHttpResponseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/NoOpLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/NodeCachingLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/NonRepeatableRequestException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NonePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/NotImplementedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NotNullPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NotPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/NotPropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/annotation/NotThreadSafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/NullArgumentException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/NullBackoffStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/NullComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NullIsExceptionPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NullIsFalsePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NullIsTruePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/NullPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/NumberConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/NumberMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/NumberRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/NumberRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/NumberUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/NumberUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Nysiis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ObjectArrayIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ObjectArrayListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/ObjectArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ObjectGraphIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/ObjectListMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/ObjectMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/ObjectUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/OnePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/OperatedClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/OrPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/OrPropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/OrderedBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/OrderedIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/OrderedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/OrderedMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ParseException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/ParserCursor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/PhoneticEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/PlainSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/PoolEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/PoolEntryFuture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/PoolEntryRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/PoolStats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/PoolingClientConnectionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Predicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/PredicateDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/PredicateTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/PredicateUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/PredicatedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/PredicatedBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/PredicatedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/PredicatedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/PredicatedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/PredicatedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/PredicatedSortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/PredicatedSortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/PredicatedSortedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/PriorityBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/PriorityQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/PropertyExclusionClassMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/PropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/PropertyNameProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/processors/PropertyNameProcessorMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/PropertySetStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/PropertyUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/PropertyUtilsBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ProtocolException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ProtocolVersion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/PrototypeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/ProxyAuthenticationStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/ProxyClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ProxyIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ProxyListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ProxyMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/ProxySelectorRoutePlanner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/PublicSuffixFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/PublicSuffixListParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/Punycode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/QCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/QuotedPrintableCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/RFC1522Codec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2109DomainHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2109Spec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2109SpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2109VersionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/RFC2617Scheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965CommentUrlAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965DiscardAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965DomainAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965PortAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965Spec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965SpecFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/RFC2965VersionAttributeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/RandomStringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/RandomUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/Range.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/ReasonPhraseCatalog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/RedirectException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/RedirectHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/RedirectLocations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/RedirectStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/ReferenceIdentityMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ReferenceMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/ReferenceMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/RefinedSoundex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/ReflectionToStringBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/regexp/RegexpMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/regexp/RegexpUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/ReplicationTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestAcceptEncoding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestAddCookies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestAuthCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestAuthenticationBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestClientConnControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestConnControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestDate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestDefaultHeaders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/RequestDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestExpectContinue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/RequestLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestProxyAuthentication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/RequestTargetAuthentication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestTargetHost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/RequestUserAgent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/RequestWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ResettableIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/ResettableListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/expression/Resolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/ResourceConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/ResponseAuthCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ResponseConnControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ResponseContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/ResponseContentEncoding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ResponseDate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/ResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/ResponseProcessCookies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/ResponseServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ResultSetDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/ResultSetIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/ReverseComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/ReverseListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/Rfc3492Idn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/RouteInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/RouteSpecificPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/RouteSpecificPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/RouteTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/RoutedRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/RowSetDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/Rule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/RuleType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/SM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/SPNegoScheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/SPNegoSchemeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/SSLInitializationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/SSLSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Savrola_CouchDB4J_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/Scheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeLayeredSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/SchemeRegistryFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SchemeSocketFactoryAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/SequencedHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/SerializableEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/SerializationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/SerializationUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/ServiceUnavailableRetryStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/Session.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/SessionInputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/SessionOutputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/SetCookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/SetCookie2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/SetUniqueList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/SetUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/Sha2Crypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ShortArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/ShortArrayMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/ShortConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/ShortLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/ShortMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/SimpleLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/SingleClientConnManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/SingletonIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/SingletonListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/SingletonMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/SocketFactoryAdaptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/SocketHttpClientConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/SocketHttpServerConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/SocketInputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/SocketOutputBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/SortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/SortedBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/Soundex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/SoundexUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/SpnegoTokenGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/SqlDateConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/SqlDateLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/SqlTimeConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/SqlTimeLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/SqlTimestampConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/SqlTimestampLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/StandardHttpRequestRetryHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/StandardToStringStyle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/StaticBucketMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/StaticBucketMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/StatusLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/StopWatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/StrBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/StrLookup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/StrMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/StrSubstitutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/StrTokenizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/StrictHostnameVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/StringArrayConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/StringConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/StringDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/StringEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/StringEncoderComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/StringEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/StringEscapeUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/StringLocaleConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/StringMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/StringValueTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/SwitchClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/SwitchTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/SwitchingMorpher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/SyncBasicHttpContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/SyncBasicHttpParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/SynchronizedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/SynchronizedBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/SynchronizedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/SynchronizedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/SynchronizedPriorityQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/SynchronizedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/SynchronizedSortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/SynchronizedSortedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/SystemClock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/SystemDefaultDnsResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/SystemDefaultHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/SystemUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/TargetAuthenticationStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/annotation/ThreadSafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/ThreadSafeClientConnManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/TiedMapEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/ToStringBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/ToStringStyle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/TokenIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/TransformIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/TransformedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/TransformedBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/TransformedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/TransformedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/TransformedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/TransformedPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/TransformedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/TransformedSortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/TransformedSortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/TransformedSortedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Transformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/TransformerClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/TransformerPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/TransformerUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/TransformingComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/TreeBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/TreeBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/TreeBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/TreeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/TruePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/filters/TruePropertyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/TruncatedChunkException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/TrustManagerDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/TrustSelfSignedStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/TrustStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/TunnelRefusedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/TypedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/TypedBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/TypedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/TypedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/TypedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/TypedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/TypedSortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/TypedSortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/TypedSortedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/URIBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/URIUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/URLCodec.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/URLConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/URLEncodedUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/UnboundedFifoBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/UnboundedFifoBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/UnhandledException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/UniqueFilterIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/UniquePredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/UnixCrypt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/Unmodifiable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/UnmodifiableBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/UnmodifiableBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/UnmodifiableBoundedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/UnmodifiableBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/UnmodifiableCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/UnmodifiableEntrySet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/UnmodifiableIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/UnmodifiableList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/UnmodifiableListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/UnmodifiableMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/UnmodifiableMapEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/UnmodifiableMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/UnmodifiableOrderedBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/UnmodifiableOrderedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/UnmodifiableOrderedMapIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/UnmodifiableSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/UnmodifiableSortedBag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/UnmodifiableSortedBidiMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/UnmodifiableSortedMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/UnmodifiableSortedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/UnsupportedDigestAlgorithmException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/UnsupportedHttpVersionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/Update.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/UriPatternMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/entity/UrlEncodedFormEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/UserTokenHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/UsernamePasswordCredentials.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/Validate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/enums/ValuedEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/VersionInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/View.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CouchDB4J/src/com/fourspaces/couchdb/ViewResults.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/WaitingThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/WaitingThreadAborter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/WeakFastHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/WeakHashtable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/WebHijackPreventionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/json/util/WebUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/WhileClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/Wire.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/WordUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/WrapDynaBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/WrapDynaClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/X509HostnameVerifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/converters/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/expression/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/beanutils/locale/converters/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/binary/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/digest/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/language/bm/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/codec/net/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bag/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/bidimap/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/buffer/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/collection/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/comparators/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/functors/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/iterators/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/keyvalue/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/list/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/map/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/collections/set/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/builder/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/enums/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/exception/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/math/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/mutable/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/reflect/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/text/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/lang/time/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/commons/logging/impl/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/annotation/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/auth/params/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/entity/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/methods/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/params/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/protocol/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/client/utils/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/concurrent/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/params/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/routing/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/scheme/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/ssl/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/conn/util/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/cookie/params/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/entity/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/auth/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/client/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/conn/tsccm/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/cookie/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/entity/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/io/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/impl/pool/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/io/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/message/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/params/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/pool/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/protocol/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Apache Commons/src/org/apache/http/util/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/array/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/bean/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/object/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/primitive/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/src/net/sf/ezmorph/test/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Savrola-CouchDB4J.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="e9652e7b-f313-438c-8052-a0a636fea6b3" time="1362550606250" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Savrola-CouchDB4J" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="327" />
+    <option name="y" value="39" />
+    <option name="width" value="1880" />
+    <option name="height" value="1422" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.6 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSON" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="couchdb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Apache Commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Savrola-CouchDB4J" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Apache Commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9652e7b-f313-438c-8052-a0a636fea6b3" name="Default" comment="" />
+      <created>1362548665032</created>
+      <updated>1362548665032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="327" y="39" width="1880" height="1422" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972737" sideWeight="0.6697389" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33026114" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of source code and annotations.jar" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Initial commit of source code and annotations.jar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JSON/src/net/sf/json/JSONArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="570" column="12" selection-start="22605" selection-end="22605" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Savrola-CouchDB4J:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Caliper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JSON</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
